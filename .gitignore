@@ -1,0 +1,10 @@
+node_modules/
+out/
+dist/
+resources/bundletool.jar
+resources/darwin/
+resources/win32/
+*.apk
+*.apks
+*.aab
+.DS_Store
